@@ -28,4 +28,4 @@ System will start a mode, which will play a sound and flash some lights approxim
 * don't forget your freewheel diodes.
 
 
-![alt text](https://github.com/SMLunchen/PanzerOfTheLake/blob/master/current_wf_no_touchy.png?raw=true)
+![alt text](https://github.com/SMLunchen/PanzerOfTheLake/blob/master/Image/current_wf_no_touchy.png?raw=true)
