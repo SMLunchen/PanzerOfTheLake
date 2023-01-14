@@ -27,5 +27,10 @@ System will start a mode, which will play a sound and flash some lights approxim
 * Fridge compressor with pneumatic valve for air driven actuator (pneumatic cylinder)
 * don't forget your freewheel diodes.
 
+### No Touch ###
 
 ![alt text](https://github.com/SMLunchen/PanzerOfTheLake/blob/master/Image/current_wf_no_touchy.png?raw=true)
+
+### Plasma-Globe touched ###
+
+![alt text](https://github.com/SMLunchen/PanzerOfTheLake/blob/master/Image/current_wf_touchy.png?raw=true)
