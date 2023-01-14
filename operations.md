@@ -27,6 +27,11 @@ System will start a mode, which will play a sound and flash some lights approxim
 * Fridge compressor with pneumatic valve for air driven actuator (pneumatic cylinder)
 * don't forget your freewheel diodes.
 
+
+## Current Waveforms ##
+AC Coupled! - DC Offset not visable
+Plasma-Globe operates at ~26-27 kHz - Layout like ZVS driver
+
 ### No Touch ###
 
 ![alt text](https://github.com/SMLunchen/PanzerOfTheLake/blob/master/Image/current_wf_no_touchy.png?raw=true)
